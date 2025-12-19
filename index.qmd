@@ -3,3 +3,4 @@
 Short project overview goes here.
 <!-- rebuild -->
 <!-- trigger workflow -->
+<!-- rebuild after _quarto.yml update -->
