@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "News\nProject updates and announcements."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\nList of publications with PDF links."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nContact details and institutional address."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to BioSUPERCAP",
+    "section": "",
+    "text": "Welcome to BioSUPERCAP\nShort project overview goes here."
+  },
+  {
+    "objectID": "infrastructure.html",
+    "href": "infrastructure.html",
+    "title": "Infrastructure",
+    "section": "",
+    "text": "Infrastructure\nResearch infrastructure and resources."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "PI and Team",
+    "section": "",
+    "text": "PI and Team\nPrincipal Investigator and project members."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Project",
+    "section": "",
+    "text": "About the Project\nBackground, objectives, and work packages."
+  }
+]
