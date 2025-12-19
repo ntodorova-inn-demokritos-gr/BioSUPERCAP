@@ -4,8 +4,8 @@ project:
 
 website:
   title: "BioSUPERCAP"
-  site-url: "https://biosupercap.com"
   description: "Official website of the BioSUPERCAP research project"
+  site-url: "https://biosupercap.com"
 
   navbar:
     left:
@@ -25,10 +25,8 @@ website:
         href: contact.qmd
 
   page-footer:
-    left: |
-      © 2025 BioSUPERCAP
-    right: |
-      Funded by [Funding Institution Name] (Grant No. XXXXX)
+    left: "© 2025 BioSUPERCAP"
+    right: "Funded by [Funding Institution Name] (Grant No. XXXXX)"
 
 format:
   html:
@@ -37,3 +35,8 @@ format:
     toc-location: right
     smooth-scroll: true
     link-external-newwindow: true
+
+# Optional: force rebuild everything
+execute:
+  freeze: auto
+  clean: true
