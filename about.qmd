@@ -1,4 +1,4 @@
 # About the Project
 
 Background, objectives, and work packages.
-!-- trigger rebuild --
+<!-- rebuild -->
