@@ -4,6 +4,7 @@ format: html
 ---
 
 # BioSUPERCAP
+BIOSUPERCAPACITORS POWERED BY ELECTROACTIVE BACTERIA FOR RENEWABLE ENERGY STORAGE
 
 *Research project on development of energy storage devices powered by living electroactive bacteria*
 
@@ -11,21 +12,18 @@ format: html
 
 ## Objectives
 
-- Develop advanced bio-electrochemical energy storage systems
-- Investigate living electroactive bacteria for sustainable energy applications
-- Integrate multi-disciplinary approaches from microbiology, materials science, and electrochemistry
+
 
 ---
 
 ## Project Overview
 
-The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria. Our research combines experimental studies, computational modeling, and prototype development.
-
+The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria. 
 ---
 
 ## Funding
 
-Funded by **[Funding Institution Name]**, Grant No. XXXXX
+Funded by **[Hellenic Foundation for Research and Innovation]**, Grant No. 25886
 
 ---
 
