@@ -1,3 +1,4 @@
+![](images/banner.jpg){fig-alt="BioSUPERCAP banner"}
 # Welcome to BioSUPERCAP 
 title: "Home"
 format: html
