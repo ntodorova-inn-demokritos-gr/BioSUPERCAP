@@ -1,4 +1,5 @@
-![](images/banner.jpg){fig-alt="BioSUPERCAP banner"}
+![](images/banner.jpg){fig-alt="BioSUPERCAP banner" width="100%"}
+
 # Welcome to BioSUPERCAP 
 title: "Home"
 format: html
