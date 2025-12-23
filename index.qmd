@@ -5,6 +5,8 @@ format: html
 
 ![](images/banner-placeholder.jpg){fig-alt="BioSUPERCAP banner" width="100%"}
 
+**Note: This website is under construction and content may change.**
+
 # BIOSUPERCAPACITORS POWERED BY ELECTROACTIVE BACTERIA FOR RENEWABLE ENERGY STORAGE
 
                               BioSUPERCAP
