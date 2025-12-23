@@ -21,13 +21,19 @@ format: html
 
 ## Project Overview
 
-The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria. Our research combines experimental studies, computational modeling, and prototype development.
+The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria. 
 
 ---
 
-## Funding
+## Funding Program
 
-Funded by **[Funding Institution Name]**, Grant No. XXXXX
+3rd Call for H.F.R.I.’s Research Projects to Support Faculty Members & Researchers
+
+---
+
+## Funding Institution
+
+**[Hellenic Foundation for Research and Innovation - HFRI]**, Grant No. 25886
 
 ---
 
