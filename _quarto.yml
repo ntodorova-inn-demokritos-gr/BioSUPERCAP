@@ -26,7 +26,7 @@ website:
 
   page-footer:
     left: "© 2025 BioSUPERCAP"
-    right: "Funded by [Funding Institution Name] (Grant No. XXXXX)"
+    right: "Funded by [Funding Institution Name] (Grant No. XXXXX)" 
 
 format:
   html:
