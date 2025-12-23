@@ -45,19 +45,7 @@ Hellenic Foundation for Research and Innovation - HFRI, Grant No. 25886
 - [Publications](publications.qmd)
 - [News](news.qmd)
 - [Contact](contact.qmd)
-## Funding
 
-Funded by **[Funding Institution Name]**, Grant No. XXXXX
-
----
-
-## Quick Links
-
-- [About](about.qmd)
-- [PI & Team](team.qmd)
-- [Infrastructure](infrastructure.qmd)
-- [Publications](publications.qmd)
-- [News](news.qmd)
 - [Contact](contact.qmd)ructure.qmd)
 - [Publications](publications.qmd)
 - [News](news.qmd)
