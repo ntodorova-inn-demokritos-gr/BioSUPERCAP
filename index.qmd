@@ -7,16 +7,20 @@ format: html
 
 # BIOSUPERCAPACITORS POWERED BY ELECTROACTIVE BACTERIA FOR RENEWABLE ENERGY STORAGE
 
-Acronym of the project:**BioSUPERCAP**
+                              **BioSUPERCAP**
 
 ---
 
 ## Objectives
 
 •	Preparation of hierarchically porous materials for high specific surface area electrodes
+
 •	Successful immobilization of living bacteria on the nanocarbon capacitive electrodes
+
 •	Investigation of bidirectional extracellular electron transfer at bioelectrodes working in anodic and cathodic mode
+
 •	Identification of bacterial genes responsible for extracellular electron transfer
+
 •	Biosupercapacitor cell assembly and performance evaluation
 
 
@@ -31,8 +35,8 @@ The BioSUPERCAP project aims to create innovative energy storage devices that ha
 ## Funding Program and Institution
 
 3rd Call for H.F.R.I.’s Research Projects to Support Faculty Members & Researchers
-
-Hellenic Foundation for Research and Innovation - HFRI, Grant No. 25886
+Hellenic Foundation for Research and Innovation - HFRI 
+Grant No. 25886
 
 ---
 
