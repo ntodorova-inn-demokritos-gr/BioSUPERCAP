@@ -3,7 +3,7 @@ title: "Home"
 format: html
 ---
 
-![](images/banner image-fin.jpg){fig-alt="BioSUPERCAP banner" width="100%"}
+![](images/banner-4.jpg){fig-alt="BioSUPERCAP banner" width="100%"}
 
 **Note: This website is under construction and content may change.**
 
