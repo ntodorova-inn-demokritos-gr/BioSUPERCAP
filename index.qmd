@@ -7,32 +7,23 @@ format: html
 
 **Note: This website is under construction and content may change.**
 
-# BIOSUPERCAPACITORS POWERED BY ELECTROACTIVE BACTERIA FOR RENEWABLE ENERGY STORAGE - BiOSUPERCAP
 
----
+
+
 
 ## Objectives
+The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria.
 
 
 
----
 
 ## Project Overview
 
-The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria. 
-
----
-
-## Funding Program and Institution
-
-3rd Call for H.F.R.I.’s Research Projects to Support Faculty Members & Researchers
+ 
 
 
-Hellenic Foundation for Research and Innovation - HFRI
 
-Grant No. 25886
 
----
 
 ## Quick Links
 
