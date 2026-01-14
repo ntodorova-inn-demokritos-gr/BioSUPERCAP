@@ -1,4 +1,4 @@
-# About BioSUPERCAP Project
+# About BioSUPERCAP 
 
 ## Aim  
 The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria.
