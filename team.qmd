@@ -1,6 +1,11 @@
 # PI and Team
 
-**Principal Investigator: Dr. CHRISTOS TRAPALIS**
+
+
+**Principal Investigator:** 
+Dr. CHRISTOS TRAPALIS
+
+
 
 
 **Project members:** 
@@ -13,5 +18,5 @@ Dr. BEATRIZ MARTINEZ-GONZALEZ
 
 Dr. GIANNIS KARAYANNIS
 
-MSc ALEXANDROS SAKELLARIS
+MSc. ALEXANDROS SAKELLARIS
 
