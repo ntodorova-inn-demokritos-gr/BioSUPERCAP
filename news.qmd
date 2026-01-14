@@ -12,4 +12,6 @@
 The **BioSUPERCAP** kick-off meeting was held on **15-12-2025** at NCSR "Demokritos". 
 The meeting brought together all project members to discuss objectives, work packages, and timelines.
 
-![](images/kickoff-meeting-1.jpg){fig-alt="BioSUPERCAP kick-off meeting"}
+![](images/kickoff meeting-1.jpg){fig-alt="BioSUPERCAP kick-off meeting"}
+
+
