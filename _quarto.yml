@@ -4,8 +4,8 @@ project:
 
 website:
   title: "BioSUPERCAP"
-  description: "Official website of the BioSUPERCAP research project"
   site-url: "https://biosupercap.com"
+  description: "Official website of the BioSUPERCAP research project"
 
   navbar:
     left:
@@ -26,16 +26,10 @@ website:
 
   page-footer:
     left: "© 2025 BioSUPERCAP"
-    right: "Funded by the Hellenic Foundation for Research & Innovation, Grant No. 25886" 
+    right: "Funded by Hellenic Foundation for Research & Innovation (Grant No. 25886)"
 
-
-    format:
+format:
   html:
     theme: cosmo
     css: styles/custom.css
     toc: true
-
-# Optional: force rebuild everything
-execute:
-  freeze: auto
-  clean: true
