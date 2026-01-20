@@ -1,14 +1,10 @@
-<div class="hero-banner">
 
-![](images/banner-10.jpg){fig-alt="BioSUPERCAP banner"}
-
-</div>
 ---
 title: "Home"
 format: html
 ---
 
-
+![](images/banner-10.jpg){fig-alt="BioSUPERCAP banner".page-full}
 
 
 *Note: This website is under construction and content may change.*
