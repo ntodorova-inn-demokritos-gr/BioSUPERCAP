@@ -28,13 +28,12 @@ website:
     left: "© 2025 BioSUPERCAP"
     right: "Funded by the Hellenic Foundation for Research & Innovation, Grant No. 25886" 
 
-format:
+
+    format:
   html:
     theme: cosmo
+    css: styles/custom.css
     toc: true
-    toc-location: right
-    smooth-scroll: true
-    link-external-newwindow: true
 
 # Optional: force rebuild everything
 execute:
