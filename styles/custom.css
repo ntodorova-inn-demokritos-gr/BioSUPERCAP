@@ -1,0 +1,11 @@
+/* Full-width hero banner */
+.hero-banner {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
+
+.hero-banner img {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
