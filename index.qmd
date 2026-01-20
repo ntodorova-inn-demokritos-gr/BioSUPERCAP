@@ -1,9 +1,13 @@
+<div class="hero-banner">
+
+![](images/banner-10.jpg){fig-alt="BioSUPERCAP banner"}
+
+</div>
 ---
 title: "Home"
 format: html
 ---
 
-![](images/banner-10.jpg){fig-alt="BioSUPERCAP banner".page-full}
 
 
 
