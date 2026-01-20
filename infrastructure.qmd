@@ -1,6 +1,7 @@
 # Infrastructure
 
-**The infrastructure of the Laboratory for Nanofunctional and Nanocomposite Materials at NCSR “Demokritos” includes synthesis and characterization facilities such as:**
+**The infrastructure of the Laboratory for Nanofunctional and Nanocomposite Materials 
+at NCSR “Demokritos” includes synthesis and characterization facilities such as:**
 
     •	Tube, muffle and microwave furnaces
 
