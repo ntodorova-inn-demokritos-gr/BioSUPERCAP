@@ -13,7 +13,7 @@ at NCSR “Demokritos” includes synthesis and characterization facilities such
 
     •	InVia Reflex Micro RAMAN spectrometer
 
-    •	Fourier Transform Infrared Spectroscopy 
+    •	Fourier Transform Infrared Spectrophotometer 
 
     •	UV-Vis spectrophotometer
 
