@@ -9,9 +9,11 @@ h2 {
 }
 </style>
 
+<div style="margin-bottom: 2rem;"></div>
 
 ## LAUNCH PROJECT: 18-11-2025
 
+<div style="margin-bottom: 2rem;"></div>
 
 ## KICKOFF MEETING: **15-12-2025**
 
