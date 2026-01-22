@@ -17,10 +17,8 @@ website:
         href: team.qmd
       - text: Infrastructure
         href: infrastructure.qmd
-      - text: Publications
-        href: publications.qmd
-      - text: News
-        href: news.qmd
+      - text: News & Publications
+        href: news-publications.qmd
       - text: Contact
         href: contact.qmd
 
