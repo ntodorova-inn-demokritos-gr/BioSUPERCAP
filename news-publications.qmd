@@ -3,6 +3,12 @@ title: "News & Publications"
 format: html
 ---
 
+<style>
+h2 {
+  border-bottom: none !important;
+}
+</style>
+
 ## News
 
 ## LAUNCH PROJECT: 18-11-2025
