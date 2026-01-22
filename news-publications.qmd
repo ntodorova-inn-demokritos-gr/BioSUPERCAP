@@ -21,6 +21,8 @@ The meeting brought together all project members to discuss objectives, work pac
 
 ![](images/kickoff meeting-1.jpg){fig-alt="BioSUPERCAP kick-off meeting"}
 
+<div style="margin-bottom: 2rem;"></div>
+
 ## Publications
 
 <!-- Your publications list goes here -->
