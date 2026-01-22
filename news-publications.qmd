@@ -9,7 +9,6 @@ h2 {
 }
 </style>
 
-## News
 
 ## LAUNCH PROJECT: 18-11-2025
 
@@ -23,6 +22,5 @@ The meeting brought together all project members to discuss objectives, work pac
 
 <div style="margin-bottom: 2rem;"></div>
 
-## Publications
 
 <!-- Your publications list goes here -->
