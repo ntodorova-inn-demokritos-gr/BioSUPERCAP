@@ -34,12 +34,15 @@ Other links:
 [Apogeion project](https://www.apogeionproject.com)
 
 ---
+---
+<div style="margin-bottom: 2rem;"></div>
 <div style="margin-bottom: 2rem;"></div>
 
 
 
-
 ## Team: 
+
+<div style="margin-bottom: 2rem;"></div>
 
 ### Dr. DIONYSSIOS SGOYRAS
 
