@@ -6,11 +6,12 @@ h2 {
 
 # About BioSUPERCAP 
 
-## Aim  
+## Aim:  
 The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria.
 
+<div style="margin-bottom: 2rem;"></div>
 
-## Overview 
+## Overview: 
 Energy conversion and storage technologies based on renewable non-fossil fuel resources are urgently needed for the human and environment well-being. 
 Microorganisms, able to transform the chemical energy stored in organic matter into electrical power, are considered as an alternative to the conventional solar and wind renewable energy sources. 
 
@@ -18,8 +19,9 @@ This project will employ living electroactive bacteria for the development of a 
 
 The research work will be led by Dr. Christos Trapalis (Principal Investigator) from the National Centre for Scientific Research “Demokritos” in close corroboration with Dr. Dionyssios Sgouras from the Hellenic Pasteur Institute. Their research groups have high expertize in the field of material science/supercapacitors and microbiology, respectively.
 
+<div style="margin-bottom: 2rem;"></div>
 
-## Duration
+## Duration:
 **36 months**
 
 
