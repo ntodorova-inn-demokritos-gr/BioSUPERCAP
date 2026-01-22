@@ -1,5 +1,7 @@
 # Infrastructure
 
+<div style="margin-bottom: 2rem;"></div>
+
 **The infrastructure of the Laboratory for Nanofunctional and Nanocomposite Materials 
 at NCSR “Demokritos” includes synthesis and characterization facilities such as:**
 
@@ -19,11 +21,11 @@ at NCSR “Demokritos” includes synthesis and characterization facilities such
 
     •	Metrohm Autolab electrochemistry equipment
 
-    •	GLOVEBOX Braun Labmaster for labor under controlled conditions.
+    •	GLOVEBOX Braun Labmaster for labor under controlled conditions, etc.
 
 
 
-
+<div style="margin-bottom: 2rem;"></div>
 
 
 **There is also access to:**
@@ -42,6 +44,6 @@ at NCSR “Demokritos” includes synthesis and characterization facilities such
 
     •	Dynamic Light Scattering equipment
 
-    •	Solid State Nuclear Magnetic Resonance spectroscopy.
+    •	Solid State Nuclear Magnetic Resonance spectroscopy, etc.
 
 
