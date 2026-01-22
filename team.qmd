@@ -1,3 +1,10 @@
+<style>
+h2 {
+  border-bottom: none !important;
+}
+</style>
+
+
 # PI and Team
 
 
