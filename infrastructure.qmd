@@ -47,3 +47,7 @@ at NCSR “Demokritos” includes synthesis and characterization facilities such
     •	Solid State Nuclear Magnetic Resonance spectroscopy, etc.
 
 
+![](images/NCSR-lab-1.jpg){fig-alt="BioSUPERCAP infrastucture"}
+
+
+
