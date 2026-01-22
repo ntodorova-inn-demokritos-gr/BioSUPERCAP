@@ -27,7 +27,7 @@ Other links:
 [Apogeion project](https://www.apogeionproject.com)
 
 ---
-
+<div style="margin-bottom: 2rem;"></div>
 
 
 
@@ -36,25 +36,25 @@ Other links:
 
 ### Dr. DIONYSSIOS SGOYRAS
 
-
+<div style="margin-bottom: 2rem;"></div>
 
 ### Dr. NADIA TODOROVA
 
-
+<div style="margin-bottom: 2rem;"></div>
 
 ### Dr. BEATRIZ MARTINEZ-GONZALEZ
 
-
+<div style="margin-bottom: 2rem;"></div>
 
 ### Dr. SOPHIA VOURLI
 
-
+<div style="margin-bottom: 2rem;"></div>
 
 ### Dr. GIANNIS KARAYANNIS
 
-
+<div style="margin-bottom: 2rem;"></div>
 
 ### MSc. ALEXANDROS SAKELLARIS
 
-
+<div style="margin-bottom: 2rem;"></div>
 
