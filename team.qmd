@@ -10,7 +10,7 @@ h2 {
 
 
 
-## Principal Investigator:
+# Principal Investigator:<br>
 ### Dr. CHRISTOS TRAPALIS
 
 *Director of Research, Head of Nanofunctional and Nanocomposite Materials Laboratory, NCSR "Demokritos"* 
@@ -34,7 +34,7 @@ Dr. C. Trapalis is a Chemical Engineer with scientific expertize in the field of
 
 
 
-## Team: 
+# Team: 
 
 <div style="margin-bottom: 3rem;"></div>
 
