@@ -56,6 +56,9 @@ Dr. D. Sgouras is a Chemist. His research interests are focused on bacterial pat
 
 <div style="margin-bottom: 2rem;"></div>
 
+<div style="margin-bottom: 2rem;"></div>
+
+
 ### Dr. NADIA TODOROVA
 
 *Research Scientist in the Institute of Nanoscience and Nanotechnologies, NCSR "Demokritos"* 
@@ -64,8 +67,10 @@ Dr. N. Todorova is a Chemical Engineer. Her research is focused on synthesis and
 
 *e-mail:* [n.todorova@inn.demokritos.gr](mailto:n.todorovas@inn.demokritos.gr?subject=BioSUPERCAP%20Inquiry)
 
+<div style="margin-bottom: 2rem;"></div>
 
 <div style="margin-bottom: 2rem;"></div>
+
 
 ### Dr. BEATRIZ MARTINEZ-GONZALEZ
 
@@ -75,8 +80,10 @@ Dr. Beatriz Martinez-Gonzalez is a Pharmacist. Her work focuses on Helicobacter 
 
 *e-mail:* [bmartinez@pasteur.gr](mailto:bmartinez@pasteur.gr?subject=BioSUPERCAP%20Inquiry)
 
+<div style="margin-bottom: 2rem;"></div>
 
 <div style="margin-bottom: 2rem;"></div>
+
 
 ### Dr. SOPHIA VOURLI
 
@@ -86,8 +93,10 @@ Dr. S. Vourli is a Biologist. Her research focuses on microbiology and pharmacol
 
 *e-mail:* [vourli@bio.demokritos.gr](mailto:vourli@bio.demokritos.gr?subject=BioSUPERCAP%20Inquiry)
 
+<div style="margin-bottom: 2rem;"></div>
 
 <div style="margin-bottom: 2rem;"></div>
+
 
 ### Dr. IOANNIS KARAYIANNIS
 
@@ -97,8 +106,10 @@ Dr. I. Karayiannis is a Biologist. His research is focused on bacterial molecula
 
 *e-mail:* [jkaragiannis@pasteur.gr](mailto:jkaragiannis@pasteur.gr?subject=BioSUPERCAP%20Inquiry)
 
+<div style="margin-bottom: 2rem;"></div>
 
 <div style="margin-bottom: 2rem;"></div>
+
 
 ### M.Sc. ALEXANDROS SAKELLARIS
 
@@ -108,6 +119,7 @@ M.Sc. A. Sakellaris is a Plant scientist. His research interests are in the fiel
 
 *e-mail:* [a.sakellaris@inn.demokritos.gr](mailto:a.sakellaris@inn.demokritos.gr?subject=BioSUPERCAP%20Inquiry)
 
+<div style="margin-bottom: 2rem;"></div>
 
 <div style="margin-bottom: 2rem;"></div>
 
