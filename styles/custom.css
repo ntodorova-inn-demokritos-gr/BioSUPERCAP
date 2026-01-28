@@ -25,3 +25,7 @@ h2 {
 p {
   text-align: justify;
 }
+/* Subtle site-wide background */
+body {
+  background-color: #f4f8fc;
+}
