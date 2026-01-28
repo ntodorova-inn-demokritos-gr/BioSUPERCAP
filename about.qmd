@@ -8,12 +8,12 @@ h2 {
 
 ![](images/about-3.jpg){fig-alt="BioSUPERCAP about the project"}
 
-## Aim:  
+# Aim:  
 The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria.
 
 <div style="margin-bottom: 2rem;"></div>
 
-## Overview: 
+# Overview: 
 Energy conversion and storage technologies based on renewable non-fossil fuel resources are urgently needed for the human and environment well-being. 
 Microorganisms, able to transform the chemical energy stored in organic matter into electrical power, are considered as an alternative to the conventional solar and wind renewable energy sources. 
 
@@ -27,7 +27,7 @@ The research is funded by the *Hellenic Foundation for Research & Innovation* wi
 
 <div style="margin-bottom: 2rem;"></div>
 
-## Duration:
+# Duration:
 **36 months**
 
 
