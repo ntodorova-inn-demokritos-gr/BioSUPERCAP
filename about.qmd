@@ -4,7 +4,7 @@ h2 {
 }
 </style>
 
-# About BioSUPERCAP 
+# About  
 
 ![](images/about-2.jpg){fig-alt="BioSUPERCAP about the project"}
 
