@@ -13,3 +13,7 @@
   object-fit: contain;
   background-color: #ffffff;
 }
+/* Section heading color */
+h1, h2 {
+  color: #0b5ed7; /* Bootstrap blue */
+}
