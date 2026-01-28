@@ -6,7 +6,7 @@ h2 {
 
 # About  
 
-![](images/about-5.jpg){width=95% fig-align="center"}
+![](images/about-5.jpg){fig-alt="BioSUPERCAP about the project"}
 
 # Aim:  
 The BioSUPERCAP project aims to create innovative energy storage devices that harness the natural capabilities of electroactive bacteria.
