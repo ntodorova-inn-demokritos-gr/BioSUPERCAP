@@ -9,13 +9,13 @@ h2 {
 }
 </style>
 
-<div style="margin-bottom: 2rem;"></div>
+<div style="margin-bottom: 5rem;"></div>
 
-## LAUNCH PROJECT: 18-11-2025
+**LAUNCH PROJECT: 18-11-2025**
 
-<div style="margin-bottom: 2rem;"></div>
+<div style="margin-bottom: 4rem;"></div>
 
-## KICKOFF MEETING: **15-12-2025**
+**KICKOFF MEETING: 15-12-2025**
 
 The **BioSUPERCAP** kick-off meeting was held at NCSR "Demokritos". 
 The meeting brought together all project members to discuss objectives, work packages, and timelines.
