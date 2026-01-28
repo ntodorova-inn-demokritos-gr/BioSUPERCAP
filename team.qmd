@@ -14,7 +14,7 @@ h2 {
 ## Principal Investigator:
 ### Dr. CHRISTOS TRAPALIS
 
-*Director of Research, Head of Nanofunctional and Nanocomposite Materials Laboratory* 
+*Director of Research, Head of Nanofunctional and Nanocomposite Materials Laboratory, NCSR "Demokritos"* 
 
 Dr. C. Trapalis is a Chemical Engineer with scientific expertize in the field of nanoscience and nanotechnology, carbon based materials, functionalized graphene and graphene oxide, 2D heterostructures, nanostructured powders and coatings, visible light active photocatalysts for NOx removal, water splitting, solar fuels, CO2 to nanocarbons conversion and hybrid organic–inorganic materials.
 
