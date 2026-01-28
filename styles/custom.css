@@ -21,11 +21,4 @@ h1 {
 h2 {
   color: #0b5ed7; /* lighter blue */
 }
-/* Justify main text content */
-p {
-  text-align: justify;
-}
-/* Subtle site-wide background */
-body {
-  background-color: #f4f8fc;
-}
+
