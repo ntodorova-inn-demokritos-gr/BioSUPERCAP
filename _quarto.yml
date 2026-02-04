@@ -5,6 +5,7 @@ project:
 website:
   title: "BioSUPERCAP"
   site-url: "https://biosupercap.com"
+  google-analytics: "G-1H8DMWEYC3"
   description: "Official website of the BioSUPERCAP research project"
 
   navbar:
