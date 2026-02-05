@@ -14,11 +14,4 @@ format: html
 *Note: This website is under construction and content may change.*
 
 
-## Quick Links
 
-- [About](about.qmd)
-- [PI & Team](team.qmd)
-- [Infrastructure](infrastructure.qmd)
-- [Publications](publications.qmd)
-- [News](news.qmd)
-- [Contact](contact.qmd)
