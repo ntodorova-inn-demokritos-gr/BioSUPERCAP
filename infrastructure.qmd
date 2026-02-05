@@ -3,7 +3,7 @@
 <div style="margin-bottom: 4rem;"></div>
 
 **The infrastructure of the Laboratory for Nanofunctional and Nanocomposite Materials at NCSR “Demokritos” includes synthesis and characterization facilities such as:**
-  •	Tube, muffle and microwave furnaces
+  	Tube, muffle and microwave furnaces
   •	Ultrasonication bath and tip devices 
   •	Freeze drying equipment
   •	InVia Reflex Micro RAMAN spectrometer 
@@ -17,7 +17,7 @@
 <div style="margin-bottom: 3rem;"></div>
 
 **There is also access to:**
-  •	X-ray Diffractometer equipment 
+  	X-ray Diffractometer equipment 
   •	Atomic Force Microscopy equipment 
   •	Transmission Electron Microscope 
   •	Scanning Electron Microscope 
