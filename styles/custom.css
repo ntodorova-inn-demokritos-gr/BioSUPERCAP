@@ -22,3 +22,6 @@ h2 {
   color: #0b5ed7; /* lighter blue */
 }
 
+p {
+  text-align: justify;
+}
