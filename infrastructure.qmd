@@ -2,31 +2,30 @@
 
 <div style="margin-bottom: 4rem;"></div>
 
-**The infrastructure of the Laboratory for Nanofunctional and Nanocomposite Materials 
-at NCSR “Demokritos” includes synthesis and characterization facilities such as:**
+**The infrastructure of the Laboratory for Nanofunctional and Nanocomposite Materials at NCSR “Demokritos” includes synthesis and characterization facilities such as:**
+  •	Tube, muffle and microwave furnaces
+  •	Ultrasonication bath and tip devices 
+  •	Freeze drying equipment
+  •	InVia Reflex Micro RAMAN spectrometer 
+  •	Fourier Transform Infrared Spectroscopy 
+  •	UV-Vis spectrophotometer
+  •	Photoluminescence  spectrometer
+  •	Metrohm Autolab electrochemistry equipment 
+  •	GLOVEBOX Braun Labmaster for labor under controlled conditions.
 
-    •	Tube, muffle and microwave furnaces<br>
-    •	Ultrasonication bath and tip devices<br> 
-    •	Freeze drying equipment<br>
-    •	InVia Reflex Micro RAMAN spectrometer<br>
-    •	Fourier Transform Infrared Spectrophotometer<br> 
-    •	UV-Vis spectrophotometer<br>
-    •	Photoluminescence spectrometer<br>
-    •	Metrohm Autolab electrochemistry equipment<br>
-    •	GLOVEBOX Braun Labmaster for labor under controlled conditions, etc.
 
 <div style="margin-bottom: 3rem;"></div>
 
 **There is also access to:**
+  •	X-ray Diffractometer equipment 
+  •	Atomic Force Microscopy equipment 
+  •	Transmission Electron Microscope 
+  •	Scanning Electron Microscope 
+  •	X-ray Photoelectron Spectroscopy 
+  •	Electron Paramagnetic Resonance Spectroscopy 
+  •	Dynamic Light Scattering equipment
+  •	Solid State Nuclear Magnetic Resonance spectroscopy.
 
-    •	X-ray Diffractometer equipment<br>
-    •	Atomic Force Microscopy equipment<br> 
-    •	Transmission Electron Microscope<br>
-    •	Scanning Electron Microscope<br>
-    •	X-ray Photoelectron Spectroscopy<br>
-    •	Electron Paramagnetic Resonance Spectroscopy<br>
-    •	Dynamic Light Scattering equipment<br>
-    •	Solid State Nuclear Magnetic Resonance spectroscopy, etc.
 
 <div style="margin-bottom: 3rem;"></div>
 
