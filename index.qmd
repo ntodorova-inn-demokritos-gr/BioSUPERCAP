@@ -11,7 +11,6 @@ format: html
 
 
 
-*Note: This website is under construction and content may change.*
 
 
 
